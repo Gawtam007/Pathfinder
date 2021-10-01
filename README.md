@@ -1,6 +1,5 @@
 # Pathfinder
 
-Authors : M Jaswanth Kumar, N R Gokula Krishna, Gawtam C R
 
 ![image](https://user-images.githubusercontent.com/56129853/135569885-bde86256-536a-4fd8-a2a2-6c5d6998c7c6.png)
 
@@ -22,5 +21,6 @@ Algorithms supported:
 - A * Search (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path.
 
 - Dijkstra's Algorithm (weighted): the father of pathfinding algorithms; guarantees the shortest path
+
 
 
