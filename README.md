@@ -11,8 +11,9 @@ Clone the directory.Go to the terminal.
 
 Install Pyqt5 by 
 
-#code 
+'''
 pip install pyqt5
+'''
 
 Type python PathFinder.py to run
 
