@@ -6,8 +6,14 @@ Authors : M Jaswanth Kumar, N R Gokula Krishna, Gawtam C R
 
 
 Installation
+
 Clone the directory.Go to the terminal.
-Install Pyqt5 by pip install pyqt5
+
+Install Pyqt5 by 
+
+#code 
+pip install pyqt5
+
 Type python PathFinder.py to run
 
 A * Search (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path.
